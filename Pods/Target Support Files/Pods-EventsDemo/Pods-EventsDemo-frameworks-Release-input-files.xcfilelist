@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-EventsDemo/Pods-EventsDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/JKCalendar/JKCalendar.framework
+${BUILT_PRODUCTS_DIR}/JKInfinitePageView/JKInfinitePageView.framework
